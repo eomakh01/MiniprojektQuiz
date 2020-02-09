@@ -11,6 +11,7 @@ h3{
 	color: #fff;
 }
 
+
 .bold{
 	font-weight: bold;
 }
@@ -49,4 +50,8 @@ h3{
 	border-radius: 15px;
 	text-align: center;
 	border-style: none;
+}
+
+hr{
+	background-color: #fff;
 }
