@@ -1,0 +1,40 @@
+img{
+	width: 100%;
+}
+
+h3{
+	font-weight: bold;
+	text-align: center;
+}
+
+.colorWh{
+	color: #fff;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+
+/*----------------- Quiz-holder--------------------------*/
+
+.holder{
+ background-color: #333;
+ width: 70%;
+ border-radius: 40px;
+ opacity: 0.8;
+ margin: 30px auto;
+}
+
+/*-----------------quiz page, back-arrow------------------*/
+.back-arrow{
+	font-size: 20px;
+	position: fixed;
+	top: 20px;
+	left: 20px;
+	color: #fff;
+}
+
+.back-arrow:hover{
+	color: #333;
+}
