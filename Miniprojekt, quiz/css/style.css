@@ -49,9 +49,28 @@ h3{
 .inputBoxes{
 	border-radius: 15px;
 	text-align: center;
-	border-style: none;
+	border-style: black;
 }
 
 hr{
 	background-color: #fff;
 }
+
+/*-----------------------------Resultat--------------------------------*/
+
+#holder1{
+	display: none ; 
+}
+
+.holder1{
+	display: block !important; 
+	width: 50%;
+	margin: 0 auto;
+	background: #333;
+}
+
+#bild{
+	margin-bottom: 20px;
+}
+
+
